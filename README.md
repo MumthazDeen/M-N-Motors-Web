@@ -15,7 +15,7 @@ The Motorbike Spare Parts Web Application is designed to streamline the process 
 - **Design:** Responsive design for mobile and desktop use
 
 ## Demo
-![Demo GIF](demo.gif)
+![DemoGIF](Demo.gif)
 
 ## Tech Stack
 
