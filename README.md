@@ -22,7 +22,7 @@ The Motorbike Spare Parts Web Application is designed to streamline the process 
 - [HTML](https://nextjs.org/) – Markup Language
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Language
 - [Tailwind](https://tailwindcss.com/) – CSS
-- [PHP]([https://next-auth.js.org](https://www.php.net/) – Server-Side scripting language
+- [PHP](https://www.php.net/) – Server-Side scripting language
 - [MySQL](https://www.mysql.com/) – Managed using MySQL Workbench
 - [WAMP](https://www.wampserver.com/en/download-wampserver-64bits/) – Server
 - [Git](https://git-scm.com/) – Version control system
@@ -56,7 +56,7 @@ npm install
 ### Start the application
 
 - Place the project files in the www directory of your WAMP server
-- Open a browser and navigate to http://localhost/[Directory where the cloned files are]
+- Open a browser and navigate to http://localhost/[Directory_where_the_cloned_files_are]
 
 ### Our Contributors ✨
 
