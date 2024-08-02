@@ -9,6 +9,7 @@ if(isset($_SESSION['uid'])) {
    // User ID is saved in the session, retrieve it
    $user_id = $_SESSION['uid'];
    echo "User ID: " . $user_id;
+   
 }
 
 $sql = "SELECT MAX(uoid) AS last_order_id FROM uorder WHERE uid = '$user_id'";
